@@ -1,0 +1,460 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.WebApi\\FylingDonkeyFSTask.WebApi.csproj": {}
+  },
+  "projects": {
+    "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.Business\\FylingDonkeyFSTask.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.Business\\FylingDonkeyFSTask.Business.csproj",
+        "projectName": "FylingDonkeyFSTask.Business",
+        "projectPath": "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.Business\\FylingDonkeyFSTask.Business.csproj",
+        "packagesPath": "C:\\Users\\Batu\\.nuget\\packages\\",
+        "outputPath": "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Batu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.Common\\FylingDonkeyFSTask.Common.csproj": {
+                "projectPath": "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.Common\\FylingDonkeyFSTask.Common.csproj"
+              },
+              "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.DataAccess\\FylingDonkeyFSTask.DataAccess.csproj": {
+                "projectPath": "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.DataAccess\\FylingDonkeyFSTask.DataAccess.csproj"
+              },
+              "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.DTOs\\FylingDonkeyFSTask.DTOs.csproj": {
+                "projectPath": "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.DTOs\\FylingDonkeyFSTask.DTOs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.Common\\FylingDonkeyFSTask.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.Common\\FylingDonkeyFSTask.Common.csproj",
+        "projectName": "FylingDonkeyFSTask.Common",
+        "projectPath": "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.Common\\FylingDonkeyFSTask.Common.csproj",
+        "packagesPath": "C:\\Users\\Batu\\.nuget\\packages\\",
+        "outputPath": "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Batu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.DataAccess\\FylingDonkeyFSTask.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.DataAccess\\FylingDonkeyFSTask.DataAccess.csproj",
+        "projectName": "FylingDonkeyFSTask.DataAccess",
+        "projectPath": "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.DataAccess\\FylingDonkeyFSTask.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Batu\\.nuget\\packages\\",
+        "outputPath": "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Batu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.Common\\FylingDonkeyFSTask.Common.csproj": {
+                "projectPath": "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.Common\\FylingDonkeyFSTask.Common.csproj"
+              },
+              "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.Entities\\FylingDonkeyFSTask.Entities.csproj": {
+                "projectPath": "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.Entities\\FylingDonkeyFSTask.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.DTOs\\FylingDonkeyFSTask.DTOs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.DTOs\\FylingDonkeyFSTask.DTOs.csproj",
+        "projectName": "FylingDonkeyFSTask.DTOs",
+        "projectPath": "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.DTOs\\FylingDonkeyFSTask.DTOs.csproj",
+        "packagesPath": "C:\\Users\\Batu\\.nuget\\packages\\",
+        "outputPath": "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.DTOs\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Batu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.Common\\FylingDonkeyFSTask.Common.csproj": {
+                "projectPath": "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.Common\\FylingDonkeyFSTask.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.Entities\\FylingDonkeyFSTask.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.Entities\\FylingDonkeyFSTask.Entities.csproj",
+        "projectName": "FylingDonkeyFSTask.Entities",
+        "projectPath": "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.Entities\\FylingDonkeyFSTask.Entities.csproj",
+        "packagesPath": "C:\\Users\\Batu\\.nuget\\packages\\",
+        "outputPath": "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Batu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.Common\\FylingDonkeyFSTask.Common.csproj": {
+                "projectPath": "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.Common\\FylingDonkeyFSTask.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.WebApi\\FylingDonkeyFSTask.WebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.WebApi\\FylingDonkeyFSTask.WebApi.csproj",
+        "projectName": "FylingDonkeyFSTask.WebApi",
+        "projectPath": "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.WebApi\\FylingDonkeyFSTask.WebApi.csproj",
+        "packagesPath": "C:\\Users\\Batu\\.nuget\\packages\\",
+        "outputPath": "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.WebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Batu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.Business\\FylingDonkeyFSTask.Business.csproj": {
+                "projectPath": "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.Business\\FylingDonkeyFSTask.Business.csproj"
+              },
+              "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.Common\\FylingDonkeyFSTask.Common.csproj": {
+                "projectPath": "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.Common\\FylingDonkeyFSTask.Common.csproj"
+              },
+              "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.DTOs\\FylingDonkeyFSTask.DTOs.csproj": {
+                "projectPath": "D:\\FylingDonkeyFSTask\\FylingDonkeyFSTask.DTOs\\FylingDonkeyFSTask.DTOs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[6.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.3, )"
+            },
+            "Microsoft.Owin.Cors": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

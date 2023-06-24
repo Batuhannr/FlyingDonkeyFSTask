@@ -1,0 +1,32 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>FylingDonkeyFSTask.WebApi</AssemblyName>
+    <NoWin32Manifest>true</NoWin32Manifest>
+    <RootNamespace>FylingDonkeyFSTask.WebApi</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FylingDonkeyFSTask.Business\FylingDonkeyFSTask.Business.csproj" />
+    <ProjectReference Include="..\FylingDonkeyFSTask.DTOs\FylingDonkeyFSTask.DTOs.csproj" />
+    <ProjectReference Include="..\FylingDonkeyFSTask.Common\FylingDonkeyFSTask.Common.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Properties\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Cors" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.NewtonsoftJson" Version="6.0.8" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.3">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.Owin.Cors" Version="4.2.2" />
+  </ItemGroup>
+
+</Project>

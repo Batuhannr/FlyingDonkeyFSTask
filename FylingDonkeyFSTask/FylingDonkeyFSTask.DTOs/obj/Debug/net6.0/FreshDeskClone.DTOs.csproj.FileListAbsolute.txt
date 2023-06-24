@@ -1,0 +1,15 @@
+D:\FreshDeskClone\FreshDeskClone.DTOs\obj\Debug\net6.0\FreshDeskClone.DTOs.csproj.AssemblyReference.cache
+D:\FreshDeskClone\FreshDeskClone.DTOs\obj\Debug\net6.0\FreshDeskClone.DTOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\FreshDeskClone\FreshDeskClone.DTOs\obj\Debug\net6.0\FreshDeskClone.DTOs.AssemblyInfoInputs.cache
+D:\FreshDeskClone\FreshDeskClone.DTOs\obj\Debug\net6.0\FreshDeskClone.DTOs.AssemblyInfo.cs
+D:\FreshDeskClone\FreshDeskClone.DTOs\obj\Debug\net6.0\FreshDeskClone.DTOs.csproj.CoreCompileInputs.cache
+D:\FreshDeskClone\FreshDeskClone.DTOs\bin\Debug\net6.0\FreshDeskClone.DTOs.deps.json
+D:\FreshDeskClone\FreshDeskClone.DTOs\bin\Debug\net6.0\FreshDeskClone.DTOs.dll
+D:\FreshDeskClone\FreshDeskClone.DTOs\bin\Debug\net6.0\FreshDeskClone.DTOs.pdb
+D:\FreshDeskClone\FreshDeskClone.DTOs\bin\Debug\net6.0\FreshDeskClone.Ortak.dll
+D:\FreshDeskClone\FreshDeskClone.DTOs\bin\Debug\net6.0\FreshDeskClone.Ortak.pdb
+D:\FreshDeskClone\FreshDeskClone.DTOs\obj\Debug\net6.0\FreshDeskClone.DTOs.csproj.CopyComplete
+D:\FreshDeskClone\FreshDeskClone.DTOs\obj\Debug\net6.0\FreshDeskClone.DTOs.dll
+D:\FreshDeskClone\FreshDeskClone.DTOs\obj\Debug\net6.0\refint\FreshDeskClone.DTOs.dll
+D:\FreshDeskClone\FreshDeskClone.DTOs\obj\Debug\net6.0\FreshDeskClone.DTOs.pdb
+D:\FreshDeskClone\FreshDeskClone.DTOs\obj\Debug\net6.0\ref\FreshDeskClone.DTOs.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\FreshDeskClone.WebApi.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "67t0o6NEnSjSPUyXO5Cm51YWApS9qxOiOeTgklye9Rg=",
+  "Source": "FylingDonkeyFSTask.WebApi",
+  "BasePath": "_content/FylingDonkeyFSTask.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

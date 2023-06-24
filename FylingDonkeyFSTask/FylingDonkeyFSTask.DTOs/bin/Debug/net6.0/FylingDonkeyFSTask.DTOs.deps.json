@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FylingDonkeyFSTask.DTOs/1.0.0": {
+        "dependencies": {
+          "FylingDonkeyFSTask.Common": "1.0.0"
+        },
+        "runtime": {
+          "FylingDonkeyFSTask.DTOs.dll": {}
+        }
+      },
+      "FylingDonkeyFSTask.Common/1.0.0": {
+        "runtime": {
+          "FylingDonkeyFSTask.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FylingDonkeyFSTask.DTOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FylingDonkeyFSTask.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

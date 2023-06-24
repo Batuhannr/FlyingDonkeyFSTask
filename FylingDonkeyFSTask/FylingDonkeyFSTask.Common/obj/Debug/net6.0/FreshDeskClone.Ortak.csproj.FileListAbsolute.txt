@@ -1,0 +1,12 @@
+D:\FreshDeskClone\FreshDeskClone.Ortak\bin\Debug\net6.0\FreshDeskClone.Ortak.deps.json
+D:\FreshDeskClone\FreshDeskClone.Ortak\bin\Debug\net6.0\FreshDeskClone.Ortak.dll
+D:\FreshDeskClone\FreshDeskClone.Ortak\bin\Debug\net6.0\FreshDeskClone.Ortak.pdb
+D:\FreshDeskClone\FreshDeskClone.Ortak\obj\Debug\net6.0\FreshDeskClone.Ortak.csproj.AssemblyReference.cache
+D:\FreshDeskClone\FreshDeskClone.Ortak\obj\Debug\net6.0\FreshDeskClone.Ortak.GeneratedMSBuildEditorConfig.editorconfig
+D:\FreshDeskClone\FreshDeskClone.Ortak\obj\Debug\net6.0\FreshDeskClone.Ortak.AssemblyInfoInputs.cache
+D:\FreshDeskClone\FreshDeskClone.Ortak\obj\Debug\net6.0\FreshDeskClone.Ortak.AssemblyInfo.cs
+D:\FreshDeskClone\FreshDeskClone.Ortak\obj\Debug\net6.0\FreshDeskClone.Ortak.csproj.CoreCompileInputs.cache
+D:\FreshDeskClone\FreshDeskClone.Ortak\obj\Debug\net6.0\FreshDeskClone.Ortak.dll
+D:\FreshDeskClone\FreshDeskClone.Ortak\obj\Debug\net6.0\refint\FreshDeskClone.Ortak.dll
+D:\FreshDeskClone\FreshDeskClone.Ortak\obj\Debug\net6.0\FreshDeskClone.Ortak.pdb
+D:\FreshDeskClone\FreshDeskClone.Ortak\obj\Debug\net6.0\ref\FreshDeskClone.Ortak.dll

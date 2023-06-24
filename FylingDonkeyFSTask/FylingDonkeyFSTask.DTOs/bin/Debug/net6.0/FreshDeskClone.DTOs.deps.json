@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "FreshDeskClone.DTOs/1.0.0": {
+        "dependencies": {
+          "FreshDeskClone.Ortak": "1.0.0"
+        },
+        "runtime": {
+          "FreshDeskClone.DTOs.dll": {}
+        }
+      },
+      "FreshDeskClone.Ortak/1.0.0": {
+        "runtime": {
+          "FreshDeskClone.Ortak.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FreshDeskClone.DTOs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FreshDeskClone.Ortak/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FylingDonkeyFSTask.DataAccess\FylingDonkeyFSTask.DataAccess.csproj" />
+    <ProjectReference Include="..\FylingDonkeyFSTask.DTOs\FylingDonkeyFSTask.DTOs.csproj" />
+    <ProjectReference Include="..\FylingDonkeyFSTask.Common\FylingDonkeyFSTask.Common.csproj" />
+  </ItemGroup>
+
+</Project>
